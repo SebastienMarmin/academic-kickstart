@@ -4,8 +4,8 @@
 
 widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
-weight = 60  # Order that this section will appear.
+active = false  # Activate this widget? true/false
+weight = 99  # Order that this section will appear.
 
 title = "Recent Posts"
 subtitle = ""
@@ -65,3 +65,4 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+

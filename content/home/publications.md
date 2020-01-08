@@ -57,6 +57,10 @@ subtitle = ""
 
   # Text color (true=light or false=dark).
   # text_color_light = true  
+  # {{% alert note %}}
+  # Check-out my 
+  # <a href="https://scholar.google.com/citations?user=6Ft7JQMAAAAJ&hl=fr&oi=ao" target="_blank">Google Scholar page</a>
+  # {{% /alert %}}
   
 [advanced]
  # Custom CSS. 
@@ -64,8 +68,6 @@ subtitle = ""
  
  # CSS class.
  css_class = ""
+
 +++
 
-{{% alert note %}}
-Quickly discover relevant content by [filtering publications]({{< ref "/publication/_index.md" >}}).
-{{% /alert %}}
