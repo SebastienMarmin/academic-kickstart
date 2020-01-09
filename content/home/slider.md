@@ -17,7 +17,7 @@ height = ""
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
   title = "Personal info"
-  content = "I'm 28, French national, with clear driving licence."
+  content = "28 y.o. (sept. 1991) • French national • Clear driving licence"
   align = "center"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
