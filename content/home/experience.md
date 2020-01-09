@@ -124,6 +124,7 @@ ses constructions ainsi que les outils informatiques permettant de les implémen
 
 * Studied mathematical models in population genetics.
 * Programmed simulations and analyzed the results (C++, parallel computing).
+
   """
 
 +++
