@@ -19,7 +19,7 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
   title = "Research associate"
-  company = "Institute EURECOM"
+  company = "EURECOM"
   company_url = "http://www.eurecom.fr"
   location = "Sophia Antipolis"
   date_start = "2018-01-01"
@@ -46,21 +46,16 @@ date_format = "Jan 2006"
   date_start = "2015-01-01"
   date_end = "2017-12-31"
   description = """
-  
+  🎓 [Bern mathematical statistics group](https://www.imsv.unibe.ch/index_eng.html), University of Bern, joint with</br> 🎓 [Institut de Mathématiques de Marseille](https://www.i2m.univ-amu.fr/), École Centrale.
+</br></br>
+
   * Expert research in probabilistic modeling.</br> <span style="color:rgba(0, 0, 0, 0.54)">In particular for
 
     + <span style="color:rgba(0, 0, 0, 0.54)">functions expensive-to-evaluate, with</span>
     + <span style="color:rgba(0, 0, 0, 0.54)">unknown heterogeneous behavior and high variations.</span>
   * Contributions in optimal and adaptive design of experiments.
   * Applications in nuclear safety, collaboration with mechanical physicists working on ageing phenomena of nuclear power plants.
-  * Developed a *design of experiments* software for IRSN.
-    + <span style="color:rgba(0, 0, 0, 0.54)">Integrating the latest findings in non-stationary modeling, it is used by practitioners for simulations of crackings in fuel rods in nuclear plants.</span>
-    + <span style="color:rgba(0, 0, 0, 0.54)">The implemented method reduce the number of evaluations of a simulator while achieving less prediction errors than with classical sequential design of experiments.</span>
-
-  * Presentations at 8 conferences and workshops of original work.
-  * Published in 5 journal and conference papers.
-  * Excellent PhD defence. <a href="documents/defence_report.pdf" target="_blank">Report (FR)</a>.
-  * Quotes from <a href="/documents/manuscript_reports.pdf" target="_blank">manuscript reports</a>:
+  * Quotes from <a href="/documents/manuscript_reports.pdf" target="_blank">PhD examination reports</a>:
 
 > <div style="text-align: justify">In closing, my opinion of this work is strongly favorable. I believe it meets—indeed, well exceeds—the threshold for advancing to defense and ultimately to the awarding the degree of Ph.D. at any of the top academic institutions world wide. The work is innovative, well documented, and will have substantial impact once converted into journal/conference publication form.</div>
 <div style="text-align: right">R. B. Gramacy, Professor of Statistics at Virginia Polytechnic </div>
@@ -69,6 +64,16 @@ date_format = "Jan 2006"
 bonne qualité. S. Marmin maı̂trise les outils (fins) mathématiques nécessaires à
 ses constructions ainsi que les outils informatiques permettant de les implémenter. </div><a href="/documents/report_extract_trans.txt" target="_blank">Translation</a>
 <div style="text-align: right">E. Le Pennec, Professor at École polytechnique</div>
+
+
+
+  * Developed a *design of experiments* software for IRSN.
+    + <span style="color:rgba(0, 0, 0, 0.54)">Integrating the latest findings in non-stationary modeling, it is used by practitioners for simulations of crackings in fuel rods in nuclear plants.</span>
+    + <span style="color:rgba(0, 0, 0, 0.54)">The implemented method reduce the number of evaluations of a simulator while achieving less prediction errors than with classical sequential design of experiments.</span>
+
+  * Presentations at 8 conferences and workshops of original work.
+  * Published in 5 journal and conference papers.
+  * Excellent PhD defence. <a href="documents/defence_report.pdf" target="_blank">Report (FR)</a>.
    """
 
 
@@ -117,8 +122,8 @@ ses constructions ainsi que les outils informatiques permettant de les implémen
   company = "CNRS, National Centre for Scientific Research"
   company_url = "http://www.cnrs.fr/en/cnrs"
   location = "Roscoff"
-  date_start = "2014-05-01"
-  date_end = "2014-08-31"
+  date_start = "2013-05-01"
+  date_end = "2013-08-31"
   description = """
   Internship in the field of evolutionary genetics using theoretical approaches.
 

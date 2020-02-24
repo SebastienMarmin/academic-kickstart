@@ -38,11 +38,11 @@
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 [[main]]
-  name = "CV (fr)"
+  name = "CV fr"
   url = "documents/cv-marmin-fr.pdf"
   weight = 70
 
 #[[main]]
-#  name = "CV (fr)"
+#  name = "CV en"
 #  url = "documents/cv-marmin-en.pdf"
-#  weight = 70
+#  weight = 71

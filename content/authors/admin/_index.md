@@ -74,10 +74,10 @@ user_groups:
 ---
 
 I am working in the [*machine learning group*](http://www.eurecom.fr/fr/la-recherche/departement-data-science) of EURECOM with Prof. [Maurizio Filippone](http://www.eurecom.fr/~filippon/).
-My research focuses on probabilistic methods for machine learning, with applications in computer experiments, live sciences, image analysis and mechanical engineering. I work on a wide range of topics, including uncertainty quantification, deep probabilistic models, Bayesian inference and optimal design for computer experiments. 
+My research focuses on probabilistic methods for machine learning, combining uncertainty quantification, deep probabilistic models, Bayesian inference and optimal design for computer experiments, with real-world applications in computer experiments, live sciences, image analysis and mechanical engineering. 
 
-I obtained my PhD in January 2018 from the [Bern mathematical statistics group](https://www.imsv.unibe.ch/index_eng.html "Institute of Mathematical Statistics and Actuarial Science"), jointly with [Centrale Marseille](https://recherche.centrale-marseille.fr/en) and funded by the [National Expert Service in Nuclear Safety](https://www.irsn.fr/EN/Presentation/about_us/Pages/who_are_we.aspx). Prior to that I studied engineering at [Mines Saint-Étienne](https://www.mines-stetienne.fr/en/) in a double degree program (Master's degree in Applied Mathematics).
+In January 2018, I obtained my PhD from the [Bern mathematical statistics group](https://www.imsv.unibe.ch/index_eng.html "Institute of Mathematical Statistics and Actuarial Science"), jointly with [Centrale Marseille](https://recherche.centrale-marseille.fr/en) and funded by the [National Expert Service in Nuclear Safety](https://www.irsn.fr/EN/Presentation/about_us/Pages/who_are_we.aspx). Prior to that I studied engineering at [Mines Saint-Étienne](https://www.mines-stetienne.fr/en/) in a double degree program (Master's degree in Applied Mathematics).
 
 
 
-I teach Gaussian Process Models within Prof [Maurizio Filippone](http://www.eurecom.fr/~filippon/)'s course on [Advanced Statistical Inference](http://www.eurecom.fr/en/course/ASI-2019Spring) and I supervise student projects in data science.
+Within Prof [Maurizio Filippone](http://www.eurecom.fr/~filippon/)'s course on [Advanced Statistical Inference](http://www.eurecom.fr/en/course/ASI-2019Spring), I teach Gaussian Process models and supervise student projects in data science.
